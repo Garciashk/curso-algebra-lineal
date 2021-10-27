@@ -1,12 +1,13 @@
 ---
-title: Tema 1 - Matrices
-author: Juan Gabriel Gomila & María Santos
-date: 
-output: 
+title: "Tema 1 - Matrices"
+author: "Juan Gabriel Gomila & María Santos"
+date: "null"
+output:
   ioslides_presentation:
-    widescreen: true
+    widescreen: yes
     css: Mery_style.css
     logo: Images/matriz_mov.gif
+  beamer_presentation: default
 ---
 
 ```{r setup, include=FALSE}
